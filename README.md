@@ -6,4 +6,7 @@ This application is described in *Getz, et. al, Adaptive vaccination may be need
   * Open System Preferences / Security & Privacy and click on General.
   * Click on "Allow Anyway" to unblock "jdk1.8.0_202.jdk". This package is a Java runtime and has been verified as malware free.
   * Any security queries regarding keystrokes can be denied.
-* Before inserting the number of steps for your run in the window at the bottom left hand corner next to the "Run" but, either select the various parameter values for the run or go to "Open settings" and in the downloaded "SEIVagent_version" folder select the file "BasicParameters.xml."
+* Before inserting the number of steps for your run in the window at the bottom right-hand corner next to the "Run" button, either select the various parameter values for the run or do the following: 
+  * Press the "Open settings" button at the top left-hand side of the application and in the downloaded "SEIVagent_version" folder select the file "BasicParameters.xml."
+  * Press the "Open path set" button in the middle of the application and in the downloaded "SEIVagent_version" folder select the file "PathogenParameters.xml."
+  * Now go to the bottom right-hand corner next to the "Run" button, insert the number of steps for the simulation, and press the "Run" button to initiate the run.
