@@ -6,4 +6,4 @@ This application is described in *Getz, et. al, Adaptive vaccination may be need
   * Open System Preferences / Security & Privacy and click on General.
   * Click on "Allow Anyway" to unblock "jdk1.8.0_202.jdk". This package is a Java runtime and has been verified as malware free.
   * Any security queries regarding keystrokes can be denied.
-
+* Before inserting the number of steps for your run in the window at the bottom left hand corner next to the "Run" but, either select the various parameter values for the run or go to "Open settings" and in the downloaded "SEIVagent_version" folder select the file "BasicParameters.xml."
