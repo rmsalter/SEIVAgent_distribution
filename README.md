@@ -9,4 +9,4 @@ This application is described in *Getz, et. al, Adaptive vaccination may be need
 * Before inserting the number of steps for your run in the window at the bottom right-hand corner next to the "Run" button, either select the various parameter values for the run or do the following: 
   * Press the "Open settings" button at the top left-hand side of the application and in the downloaded "SEIVagent_version" folder select the file "BasicParameters.xml."
   * Press the "Open path set" button in the middle of the application and in the downloaded "SEIVagent_version" folder select the file "PathogenParameters.xml."
-  * Now go to the bottom right-hand corner next to the "Run" button, insert the number of steps for the simulation, and press the "Run" button to initiate the run.
+* Now go to the bottom right-hand corner next to the "Run" button, insert the number of steps for the simulation, and press the "Run" button to initiate the run.
