@@ -1,10 +1,13 @@
 ## SEIVAgent Distribution
 This application is described in *Getz, et. al, Adaptive vaccination may be needed to extirpate COVID-19: results from a runtime-alterable strain-drift and waning-immunity model*. The current version is 1.069 beta. To install and run under **MacOS**:
-* Download and unzip the [zip](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta_macosx/SEIVAgent.v1.071.zip) file. The unzipped file will create a folder called *SEIVAgentv1.071*.
-* Launch the application **SEIVAgent-1069**
-* On first launch you will probably get an error message regarding security: i.e., "Move to Trash" or "Cancel". Press "Cancel" and then right click on the app and choose "Open."  This should work.  However, if there is no way to launch the application:
+* Download and unzip the [zip](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta_macosx/SEIVAgent.v1.071.zip) file. The unzipped file will create a folder called *SEIVAgentv1.071macosx*.
+* Create or choose a folder as your working folder for this project.
+* Double-click on *SEIVAGENT-1.071.dmg* to mount and open the disk image containing the application. You must first accept the end user license agreement.
+* Drag the *SEIVAgent* icon to the working folder.
+* Drag the rest of the contents of the *SEIVAgentv1.071macosx* folder to the working folder.
+* Launch the *SEIVAgent* application. The first time you launch do so by right-clicking the icon and select *Open*. You may see a warning message with an Open override. Select the Open override. Subsequent launches will only require a double-click. If this doesn't work:
   * Open System Preferences / Security & Privacy and click on General.
-  * Click on "Allow Anyway" to unblock "jdk1.8.0_202.jdk". This package is a Java runtime and has been verified as malware free.
+  * Click on "Allow Anyway" to unblock the launch. This package contains a Java runtime and has been verified as malware free.
   * Any security queries regarding keystrokes can be denied.
 * Before inititating a simulation either select the various parameter values for the run or do the following: 
   * Press the "Open settings" button at the top left-hand side of the application and in the downloaded "SEIVagent_version" folder select the file "BasicParameters.xml."
