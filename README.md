@@ -1,6 +1,6 @@
 ## SEIVAgent Distribution
 This application is described in *Getz, et. al, Adaptive vaccination may be needed to extirpate COVID-19: results from a runtime-alterable strain-drift and waning-immunity model*. The current version is 1.069 beta. To install and run under **MacOS**:
-* Download and unzip the [zip](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent1.071beta_macosx/SEIVAgent.v1.071.zip) file. The unzipped file will create a folder called *SEIVAgentv1.071macosx*.
+* Download and unzip the [zip](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta_macosx/SEIVAgent1.071.zip) file. The unzipped file will create a folder called *SEIVAgentv1.071macosx*.
 * Create or choose a folder as your working folder for this project.
 * Double-click on *SEIVAGENT-1.071.dmg* to mount and open the disk image containing the application. You must first accept the end user license agreement.
 * Drag the *SEIVAgent* icon to the working folder.
