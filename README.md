@@ -7,7 +7,9 @@ To install and run under **MacOS**:
 * Drag the *SEIVAgent* icon to the working folder.
 * Drag the rest of the contents of the *SEIVAgentv1.071macosx* folder to the working folder.
 * Launch the *SEIVAgent* application. The first time you launch do so by right-clicking the icon and select *Open*. You may see a warning message with an Open override. 
+
 ![Security Message](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta_macosx/Screen.Shot.2021-06-14.at.22.19.25.png)
+
 * Select the Open override. Subsequent launches will only require a double-click. If this doesn't work:
   * Open System Preferences / Security & Privacy and click on General.
   * Click on "Allow Anyway" to unblock the launch. This package contains a Java runtime and has been verified as malware free.
