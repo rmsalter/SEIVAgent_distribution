@@ -14,6 +14,13 @@ To install and run under **MacOS**:
   * Open System Preferences / Security & Privacy and click on General.
   * Click on "Allow Anyway" to unblock the launch. This package contains a Java runtime and has been verified as malware free.
   * Any security queries regarding keystrokes can be denied.
+
+![Security Setting](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta_macosx/Screen.Shot.2021-06-14.at.22.19.46.png)
+
+* When the simulation starts you may need to adjust the display resolution in order for the dashboard to fit on the screen. Use System Preferences / Displays to make this adjustment
+
+![Displays](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta_macosx/Screen.Shot.2021-06-14.at.22.22.11.png)
+
 * Before inititating a simulation either select the various parameter values for the run or do the following: 
   * Press the "Open settings" button at the top left-hand side of the application and in the downloaded "SEIVagent_version" folder select the file "BasicParameters.xml."
   * Press the "Open path set" button in the middle of the application and in the downloaded "SEIVagent_version" folder select the file "PathogenParameters.xml."
