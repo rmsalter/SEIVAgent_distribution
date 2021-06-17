@@ -31,7 +31,6 @@ This application is described in *Getz, et. al, Adaptive vaccination may be need
 **Running SEIVAgent**
 * Before inititating a simulation either select the various parameter values for the run or do the following: 
   * Press the "Open settings" button at the top left-hand side of the application and in the downloaded "SEIVagent_version" folder select the file "BasicParameters.xml."
-  * Press the "Open path set" button in the middle of the application and in the downloaded "SEIVagent_version" folder select the file "PathogenParameters.xml."
 * Now go to the bottom right-hand corner next to the "Run" button, insert the number of steps for the simulation, and press the "Run" button to initiate the run.
 * If you want to run our JavaScript adaptive vaccination driver, then go to the "JS" button, second from the left at the bottom of the app and press it to open the JS window.  Now press the "Open Script" button at the top (in the middle) of this window and select the "vaccadjust.js" file to open this script.  Then press the "Load Script" button at the bottome right-hand corner of the JS window, then press the "Go" button at the bottom middle of this window.  Pressing the "Stop" button will act to stop the run and reset it to the starting point at step (time) 0.
 
