@@ -1,12 +1,12 @@
 ## SEIVAgent Distribution
-This application is described in *Getz, et. al, Adaptive vaccination may be needed to extirpate COVID-19: results from a runtime-alterable strain-drift and waning-immunity model*. The current version is 1.071 beta. It installs with its own Java runtime (JRE 8_202).
+This application is described in *Getz, et. al, Adaptive vaccination may be needed to extirpate COVID-19: results from a runtime-alterable strain-drift and waning-immunity model*. The current version is 1.072 beta. It installs with its own Java runtime (JRE 8_202).
 
 **To install and run under MacOSX**
-* Download and unzip this [zip](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/SEIVAgent1.071macosx.zip) file. The unzipped file will create a folder called *SEIVAgentv1.071macosx*.
+* Download and unzip this [zip](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.072beta/SEIVAgent1.072macosx.zip) file. The unzipped file will create a folder called *SEIVAgentv1.072macosx*.
 * Create or choose a folder as your working folder for this project.
-* Double-click on *SEIVAGENT-1.071.dmg* to mount and open the disk image containing the application. You must first accept the end user license agreement.
+* Double-click on *SEIVAGENT-1.072.dmg* to mount and open the disk image containing the application. You must first accept the end user license agreement.
 * Drag the *SEIVAgent* icon to the working folder.
-* Drag the rest of the contents of the *SEIVAgentv1.071macosx* folder to the working folder.
+* Drag the rest of the contents of the *SEIVAgentv1.072macosx* folder to the working folder.
 * Launch the *SEIVAgent* application. The first time you launch do so by right-clicking the icon and select *Open*. You may see a warning message with an Open override. 
 
 ![Security Message](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/Screen.Shot.2021-06-14.at.22.19.25.png)
@@ -23,8 +23,8 @@ This application is described in *Getz, et. al, Adaptive vaccination may be need
 ![Displays](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/Screen.Shot.2021-06-14.at.22.22.11.png)
 
 **To install and run under Windows**
-* Download and unzip this [zip](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/SEIVAgent1.075win.zip) file. 
-* Double-click the installer *SEIVAgent-1.071.exe* and follow instructions. This will install SEIVAgent and its required Java runtime.
+* Download and unzip this [zip](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.072beta/SEIVAgent1.072win.zip) file. 
+* Double-click the installer *SEIVAgent-1.072.exe* and follow instructions. This will install SEIVAgent and its required Java runtime.
 * Launch the application using the shortcut, and bypass any security warnings.
 * Make any display resolution adustments to accomodate the dashboard, as with MacOSX.
 
