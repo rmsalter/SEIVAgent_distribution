@@ -1,6 +1,8 @@
 ## SEIVAgent Distribution
 This application is described in *Getz, et. al, Adaptive vaccination may be needed to extirpate COVID-19: results from a runtime-alterable strain-drift and waning-immunity model*. The current version is 1.072 beta. It installs with its own Java runtime (JRE 8_202).
 
+See the User Guide [here](https://wiki.numerusinc.com/index.php/SEIVAgent_IBM_Epidemic_Simulator)
+
 **To install and run under MacOSX**
 * Download and unzip this [zip](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.072beta/SEIVAgent1.072macosx.zip) file. The unzipped file will create a folder called *SEIVAgentv1.072macosx*.
 * Create or choose a folder as your working folder for this project.
