@@ -40,7 +40,7 @@ See the User Guide [here](https://wiki.numerusinc.com/index.php/SEIVAgent_IBM_Ep
 * If you want to run our JavaScript adaptive vaccination driver, then go to the "JS" button, second from the left at the bottom of the app and press it to open the JS window.  Now press the "Open Script" button at the top (in the middle) of this window and select the "vaccadjust.js" file to open this script.  Then press the "Load Script" button at the bottom right-hand corner of the JS window, then press the "Go" button at the bottom middle of this window.  Pressing the "Stop" button will act to stop the run and reset it to the starting point at step (time) 0.
 
 **Using the R example**
-* Install the package contained in *seiv_0.2.0.tar.gz* as a source package into your R platform.
-* In R or R Studio, install any uninstalled packages (ggplot2, reshape).
+* In R or R Studio, install the package contained in *seiv_0.2.0.tar.gz* as a source package into your R platform.
+* Install any uninstalled packages (ggplot2, reshape).
 * Open and load the program *Rdemo.R*.
 * Invoke the program from the command line using **go(run=10, sampleSize=165)**
