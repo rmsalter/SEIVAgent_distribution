@@ -11,21 +11,21 @@ See the User Guide [here](https://wiki.numerusinc.com/index.php/SEIVAgent_IBM_Ep
 * Drag the rest of the contents of the *SEIVAgentv1.073macosx* folder to the working folder.
 * Launch the *SEIVAgent* application. The first time you launch do so by right-clicking the icon and select *Open* and select the Open override. Subsequent launches will only require a double-click. 
 
-<img src="https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/Screen.Shot.2021-06-24.at.13.33.40.png" width="319">
+<img src="https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/Screen.Shot.2021-06-24.at.13.33.40.png" width="350">
 
 * You may see a warning message with an Open override. 
 
-<img src="https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/Screen.Shot.2021-06-14.at.22.19.25.png" width="319">
+<img src="https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/Screen.Shot.2021-06-14.at.22.19.25.png" width="350">
 
   * Open System Preferences / Security & Privacy and click on General.
   * Click on "Allow Anyway" to unblock the launch. This package contains a Java runtime and has been verified as malware free.
   * Any security queries regarding keystrokes can be denied.
 
-<img src="https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/Screen.Shot.2021-06-14.at.22.19.46.png" width="319">
+<img src="https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/Screen.Shot.2021-06-14.at.22.19.46.png" width="350">
 
 * When the simulation starts you may need to adjust the display resolution in order for the dashboard to fit on the screen. Use System Preferences / Displays to make this adjustment
 
-<img src="https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/Screen.Shot.2021-06-14.at.22.22.11.png" width="319">
+<img src="https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/Screen.Shot.2021-06-14.at.22.22.11.png" width="350">
 
 **To install and run under Windows**
 * Download and unzip this [zip](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.073beta/SEIVAgent1.073win.zip) file. 
