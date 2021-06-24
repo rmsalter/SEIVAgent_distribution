@@ -15,17 +15,17 @@ See the User Guide [here](https://wiki.numerusinc.com/index.php/SEIVAgent_IBM_Ep
 
 * You may see a warning message with an Open override. 
 
-![Security Message](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/Screen.Shot.2021-06-14.at.22.19.25.png)
+<img src="https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/Screen.Shot.2021-06-14.at.22.19.25.png" width="319">
 
   * Open System Preferences / Security & Privacy and click on General.
   * Click on "Allow Anyway" to unblock the launch. This package contains a Java runtime and has been verified as malware free.
   * Any security queries regarding keystrokes can be denied.
 
-![Security Setting](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/Screen.Shot.2021-06-14.at.22.19.46.png)
+<img src="https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/Screen.Shot.2021-06-14.at.22.19.46.png" width="319">
 
 * When the simulation starts you may need to adjust the display resolution in order for the dashboard to fit on the screen. Use System Preferences / Displays to make this adjustment
 
-![Displays](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/Screen.Shot.2021-06-14.at.22.22.11.png)
+<img src="https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.071beta/Screen.Shot.2021-06-14.at.22.22.11.png" width="319">
 
 **To install and run under Windows**
 * Download and unzip this [zip](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.073beta/SEIVAgent1.073win.zip) file. 
