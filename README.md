@@ -11,7 +11,7 @@ See the User Guide [here](https://wiki.numerusinc.com/index.php/SEIVAgent_IBM_Ep
 * Drag the rest of the contents of the *SEIVAgentv1.073macosx* folder to the working folder.
 * Launch the *SEIVAgent* application. The first time you launch do so by right-clicking the icon and select *Open* and select the Open override. Subsequent launches will only require a double-click. 
 
-![Security Message](https://github.com/rmsalter/SEIVAgent_distribution/Screen Shot 2021-06-24 at 13.33.40.png)
+![Security Message](https://github.com/rmsalter/SEIVAgent_distribution/Screen.Shot.2021-06-24.at.13.33.40.png)
 
 * You may see a warning message with an Open override. 
 
