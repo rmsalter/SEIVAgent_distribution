@@ -1,5 +1,5 @@
 ## SEIVAgent Distribution
-This application is described in *Getz, et. al, Adaptive vaccination may be needed to extirpate COVID-19: results from a runtime-alterable strain-drift and waning-immunity model*. The current version is 1.073 beta. It installs with its own Java runtime (JRE 8_202).
+This application is described in *Getz, et. al, Adaptive vaccination may be needed to extirpate COVID-19: results from a runtime-alterable strain-drift and waning-immunity model*. https://doi.org/10.1101/2021.06.07.21258504 The current version is 1.073 beta. It installs with its own Java runtime (JRE 8_202).
 
 See the User Guide [here](https://wiki.numerusinc.com/index.php/SEIVAgent_IBM_Epidemic_Simulator)
 
