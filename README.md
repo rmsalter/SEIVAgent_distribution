@@ -3,6 +3,9 @@ This application is described in *Getz, et. al, Adaptive vaccination may be need
 
 See the User Guide [here](https://wiki.numerusinc.com/index.php/SEIVAgent_IBM_Epidemic_Simulator)
 
+Download [slides](https://10a91163e4fbbd8cb90c-5cca51379a12fcddc0f75cec893dd529.ssl.cf1.rackcdn.com/midas.pdf) from *Adaptive vaccination may be needed to extirpate COVID-19: Results from a runtime-alterable strain-drift and waning-immunity model*, presentation by Wayne Getz and Richard Salter to *MIDAS: Covid-19 Modeling: Impact of Interventions*, June 14, 2021.
+
+
 **To install and run under MacOSX**
 * Download and unzip this [zip](https://github.com/rmsalter/SEIVAgent_distribution/releases/download/SEIVAgent_v1.073beta/SEIVAgent1.073macosx.zip) file. The unzipped file will create a folder called *SEIVAgentv1.073macosx*.
 * Create or choose a folder as your working folder for this project.
